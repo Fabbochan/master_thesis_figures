@@ -1,0 +1,11 @@
+COM,h,h,h,l-h,m-l,m-l,m,h
+DAT,h,h,l,l,h,l,m,m
+DATA,h,h,l,l,h,m,m,l
+SIT,m,l-m,l,l,m,m,l,m
+ADA,m,m,m,l,h,m,m,m
+REM,m,h,h,m,m,h,m,m
+REC,h,h,l,m,m,l,m,l
+SEL,h,m,m,l,h,m,m,l
+PRE,h,m,l,l,h,m,m,l
+CON,m,l,m,l,h,m,m,l
+TAS,h,m,m,l,m,h,m,m

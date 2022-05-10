@@ -1,0 +1,9 @@
+,COM,DAT,DATA,SIT,ADA,REM,REC,SEL,PRE,CON,TAS
+Value for the customer,m,h,l,l,l,l,l,l,l,m,m
+Value for the producer,h,h,l,l,l,l,l,l,l,m,m
+Risks for the customer,m,h,l,l,l,m,m,m,m,m,l
+Risks for the producer,m,m,m,l,l,m,m,m,m,m,l
+Cost of development,h,m,h,h,h,m,h,h,m,h,m
+Cost of implementation,h,m,m,m,m,m,h,h,m,h,m
+Return of investment,m,m,m,l,m,h,m,m,m,m,h
+Market establishment,l,m,l,l,l,m,l,l,l,l,m
